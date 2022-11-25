@@ -52,11 +52,13 @@
     color: white;
     background: #11bfff;
     font-size: 16px;
+    transition: 0.5s;
     border-radius: 5px;
 }
 
 .first__container button:hover {
     background: red;
+
 }
 
 .first__container__main {
