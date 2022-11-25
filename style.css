@@ -1,5 +1,6 @@
 * {
     margin: 0 0 0 0;
+    font-family: OpenSans;
 }
 
 .first__container {
@@ -50,6 +51,7 @@
     height: 52px;
     color: white;
     background: #11bfff;
+    font-size: 16px;
     border-radius: 5px;
 }
 
@@ -95,17 +97,25 @@
     font-size: 18px;
     padding-bottom: 50px;
 }
+.container__two__btn{
+    display: flex;
+
+}
 
 .container__two__btn button {
     width: 217px;
     height: 57px;
     color: white;
+    font-size: 20px;
 
 
     /* #3A68B8 */
 
     background: #3A68B8;
     border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
@@ -113,6 +123,7 @@
     width: 27px;
     height: 26px;
     padding-right: 10px;
+
 }
 
 .btn__get__start {
